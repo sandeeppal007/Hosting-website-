@@ -31,4 +31,4 @@
 🔁 Update comes in future 
 
 
-🔗[Live Link](https://62e2bb9413863f0066cf8a2d--jolly-seahorse-c8a267.netlify.app/)
+🔗[Live Link](https://fluffy-selkie-6cd46c.netlify.app/)
